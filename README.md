@@ -24,4 +24,4 @@ SQL (SQLite) · Próximamente: Power BI, limpieza de datos con Python/Pandas
 
 ## Contacto
 
-[LinkedIn](www.linkedin.com/in/guillermo-soler) · [Email](Gsoler.data2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/guillermo-soler) · [Email](mailto:Gsoler.data2@gmail.com)
